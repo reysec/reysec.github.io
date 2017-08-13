@@ -21,10 +21,10 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Angga Pramudya
-  twitter: https://twitter.com/Ngga_mud
+  twitter: ngga_mud
   picture:
-twitter_username: @ngga_mud
-github_username: @reysec
+twitter_username: ngga_mud
+github_username: reysec
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 
 # Build settings
