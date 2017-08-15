@@ -26,6 +26,8 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={% for font in site.data.theme.google_fonts %}{{ font.name | replace: ' ', '+' }}{% if font.weights %}:{% endif %}{{ font.weights | remove: ' ' }}{% if forloop.last != true %}|{% endif %}{% endfor %}">
   {% endif %}
 
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+
   {% if site.gems contains 'jekyll-feed' %}
     {% comment %}
       Add Atom feed link if jekyll-feed plugin is enabled
