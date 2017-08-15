@@ -16,7 +16,7 @@
 lang: en-US
 title: < CODE / HERO >
 email: pramudya.angga58@gmail.com
-description: My Personal Blog
+description: Angga Pramudya Blog's
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
@@ -25,8 +25,8 @@ author:
   picture:
 twitter_username: ngga_mud
 github_username: reysec
-instagram_username: angga.pramudya58
-linkedin_username: angga-pramudya-65442b55
+# instagram_username: angga.pramudya58
+# linkedin_username: angga-pramudya-65442b55
 logo: /assets/icons/hero-ironman.svg
 
 # Build settings
