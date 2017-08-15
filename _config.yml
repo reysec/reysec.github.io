@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Angga Pramudya
+title: < CODE / HERO >
 email: pramudya.angga58@gmail.com
 description: My Personal Blog
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -25,7 +25,9 @@ author:
   picture:
 twitter_username: ngga_mud
 github_username: reysec
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+instagram_username: angga.pramudya58
+linkedin_username: angga-pramudya-65442b55
+logo: /assets/icons/hero-ironman.svg
 
 # Build settings
 markdown: kramdown
