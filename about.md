@@ -3,12 +3,15 @@ title: "About"
 layout: about
 ---
 
-Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
+Halo, salam kenal.... Nama saya [Angga Pramudya](http://www.anggapramudya.com)... Bercita-cita untuk menjadi seorang IT Man yang tahu semua seluk beluk di bidang IT. Selama ini berkecimpung di bidang Networking dan Linux Administration. Saat ini passion saya condong ke dunia software development. Hingar bingar dunia startup teknologi telah memancing rasa penasaran saya untuk menuju ke arahnya. Beberapa teknologi atau tools yang sedang saya pelajari adalah sebagai berikut :  
 
-- Clean responsive design with [six customizable skins](#skin)
-- Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-- About page layout
-- Disqus Comments and Google Analytics support
-- SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+- Bahasa : [Ruby](https://www.ruby-lang.org), PHP, Javascript
+- Web Framework : [Rails](http://rubyonrails.org), Laravel, ReactJS
+- Git Version Control System
+- OOP. TDD, CI
+- Unix Base Development Environment ([Ubuntu](https://www.ubuntu.com))
+- Cloud Computing (SaaS,PaaS,Iaas)
 
-You can find the source code for this theme at: {% include icon-github.html username="mmistakes" %}/[jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+<br />
+<br />
+Temukan saya di : {% include icon-github.html username="reysec" %} / {% include icon-twitter.html username="ngga_mud" %} / {% include icon-linkedin.html username="angga-pramudya-65442b55" %}
