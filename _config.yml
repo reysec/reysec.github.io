@@ -29,6 +29,9 @@ github_username: reysec
 # linkedin_username: angga-pramudya-65442b55
 logo: /assets/icons/ironman.svg
 
+disqus:
+  shortname: reysec-blog
+
 # Build settings
 markdown: kramdown
 theme:
