@@ -5,11 +5,11 @@
     "picture": "",
     "email": "pramudya.angga@gmail.com",
     "phone": "(+62) 838 3892 xxxx",
-    "website": "http://anggapramudya.com",
+    "website": "https://anggapramudya.com",
     "summary": "Mencintai teknologi komputer dan segala hal yang berhubungan tentangnya. Bercita-cita untuk menapaki semua path dalam bidang teknologi komputer, baik hardware, networking, dan software development. Di tahun 2013, awal lulus kuliah mendapat pekerjaan dibidang yang tidak sesuai dengan jurusan kuliah IT. Sampai tahun 2015 berganti-ganti perusahaan yang tidak bersesuai dengan minat dan jurusan kuliah. Namun pada bulan September 2015, alhamdulillah mendapat pekerjaan dan menempati posisi dibidang IT. Mengawali dari seorang IT Support hingga kini menjadi seorang Sysadmin. Selama 2 tahun ini pula saya menyempatkan waktu untuk belajar programming dan segala yang berhubungan dengan software development, terutama web development. Berupaya menyiapkan skill untuk menapaki step selanjutnya, yaitu sebagai software developer. Belajar dari paling basic PHP, mysql, html, CSS hingga ketahap OOP, GIT Version Control dan framework PHP seperti Laravel dan Codeigniter. Kemudian teknologi Javascript NodeJS, & ExpressJS. Pernah juga mencicipi belajar bahasa pemrograman Ruby dan web frameworknya yaitu Rails. Target saat ini yaitu merubah karir menjadi seorang Software Developer. Menapaki karir baru di perusahaan yang menjadi tempat menyalurkan ide-ide dan sekaligus tempat belajar yang nyaman.",
     "location": {
-      "address": "Bukit Duri Tanjakan No. 128 A",
-      "postalCode": "12840",
+      "address": "Tebet Dalam 3A",
+      "postalCode": "12810",
       "city": "Tebet",
       "countryCode": "ID",
       "region": "DKI Jakarta"
@@ -27,23 +27,40 @@
       },
       {
         "network": "Linkedin",
-        "username": "angga-pramudya-65442b55",
-        "url": "https://www.linkedin.com/in/angga-pramudya-65442b55"
+        "username": "angga-pramudya",
+        "url": "https://www.linkedin.com/in/angga-pramudya"
       }
     ]
   },
   "work": [
     {
-      "company": "PT. Bhanda Ghara Reksa (Persero)",
-      "position": "Staff IT",
-      "website": "https://www.bgrindonesia.com",
-      "startDate": "2015-09-01",
+      "company": "PT. Astra Graphia Information Technology (AGIT)",
+      "position": "System Engineer",
+      "website": "https://www.ag-it.com",
+      "startDate": "2019-03-01",
       "endDate": "",
-      "summary": "PT Bhanda Ghara Reksa (Persero) adalah perusahaan pergudangan yang berdiri tanggal 11 April 1977 berdasarkan Peraturan Pemerintah  No. 25 tahun 1976 di Semarang, Jawa Tengah. Sebagai suatu Badan Usaha Milik Negara (BUMN), BGR turut mengemban misi menunjang kebijaksanaan pemerintah dan membantu pelaku bisnis dan industri, khususnya dibidang penyelenggara jasa penyewaan dan pengelolaan ruangan serta proses pengiriman barang dengan tetap memperhatikan prinsip-prinsip pengelolaan usaha yang sehat dan undang-undang perseroan terbatas.",
+      "summary": "Astra Graphia Information Technology (AGIT) is a leading Information and Communication Technology solutions provider in Indonesia.  Combining our wide range of ICT portfolios, trusted skillful professionals and proven track records with good reputation in managing large and complex ICT projects especially for SAP Implementation, Systems Integration and Outsourcing Projects, AGIT will take care your IT to allow you attaining the business growth.",
       "highlights": [
-        "Troubleshoot perangkat hardware dan software.",
-        "Maintenance jaringan internet dan firewall.",
-        "Maintenance system, server dan network."
+        "Setup, configure, and tweak system and server infrastructure on client",
+        "Perform installation (OS and Apps) to all servers",
+        "Monitor server and system infrastructure performance and availability",
+        "Troubleshoot and handle all problems in system and server infrastructure",
+        "Keep up system and server infrastructure with latest technology and standards"
+      ]
+    },
+    {
+      "company": "PT. Bhanda Ghara Reksa (Persero)",
+      "position": "IT Infrastructure Analyst",
+      "website": "https://www.bgrindonesia.co.id",
+      "startDate": "2015-09-01",
+      "endDate": "2019-02-28",
+      "summary": "As a State-Owned Enterprise (SOE) engaged in logistics services which was established on April 11, 1977 in Jakarta, PT. Bhanda Ghara Reksa (Persero) or BGR Logistics has a vision of becoming a logistics company that provides integrated, reliable and reliable solutions. This is always done so that all users of BGR Logistics logistics services feel the excellent service provided and the experience of using services that are superior to digital services provided as a solution to customers.",
+      "highlights": [
+        "Design and analyze network and server across multiple branch.",
+        "Operate all server infrastructure.",
+        "Troubleshooting server and network.",
+        "Perform backup database application.",
+        "Secure network infrastructure."
       ]
     }
   ],
@@ -70,9 +87,7 @@
       "name": "Web Development",
       "level": "Intermediate",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
+        "NodeJS",
         "PHP",
         "Ruby",
         "Rails",
@@ -87,10 +102,21 @@
         "Fortigate",
         "Cisco",
         "Mikrotik",
-        "Debian",
+        "Ubiquiti",
+        "VPN IPSec",
+        "MPLS"
+      ]
+    },
+    {
+      "name": "SysAdmin",
+      "level": "Intermediate",
+      "keywords": [
         "Ubuntu",
-        "GNS3",
-        "UNetLab"
+        "Debian",
+        "CentOS",
+        "KVM",
+        "Nginx",
+        "Apache"
       ]
     }
   ],
@@ -111,7 +137,8 @@
         "Web Development",
         "Mobile Development",
         "IoT",
-        "Startup",
+        "Virtualization",
+        "Containerization",
         "Cloud Computing"
       ]
     },
@@ -119,11 +146,11 @@
       "name": "Outdoor",
       "keywords": [
         "Hiking",
+        "Trecking",
         "Running",
         "Swimming",
         "Bicycling",
         "Football",
-        "Racing",
         "Touring"
       ]
     }
