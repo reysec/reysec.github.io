@@ -16,4 +16,4 @@ Temukan saya di :
 
 <img src="https://cdn.rawgit.com/mmistakes/jekyll-theme-basically-basic/master/_includes/icon-twitter.svg" width="16" height="16"> [@ngga_mud](https://twitter.com/ngga_mud)
 <img src="https://cdn.rawgit.com/mmistakes/jekyll-theme-basically-basic/master/_includes/icon-github.svg" width="16" height="16"> [@reysec](https://github.com/reysec)
-<img src="https://cdn.rawgit.com/mmistakes/jekyll-theme-basically-basic/master/_includes/icon-linkedin.svg" width="16" height="16"> [angga-pramudya-65442b55](https://www.linkedin.com/in/angga-pramudya-65442b55)
+<img src="https://cdn.rawgit.com/mmistakes/jekyll-theme-basically-basic/master/_includes/icon-linkedin.svg" width="16" height="16"> [angga-pramudya](https://www.linkedin.com/in/angga-pramudya)
